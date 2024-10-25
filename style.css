@@ -1,0 +1,17 @@
+<style>
+    ul {
+        background-color:red;
+        color: white;
+    }
+
+    ol {
+        background-color:rgb(99, 212, 194);
+        color: black;
+    }
+
+li {
+    font-size: 60px;
+    gap: 30px;
+}
+
+
