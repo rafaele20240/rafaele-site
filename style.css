@@ -3,6 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+ body{
+    background-color: #85FFBD;
+background-image: linear-gradient(90deg, #85FFBD 8%, #FFFB7D 100%);
+
+ }
    
    
    
